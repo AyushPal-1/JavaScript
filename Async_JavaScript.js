@@ -1,0 +1,6 @@
+setInterval
+setTimeout
+XMLHttpRequest
+fetch
+Promise
+axios
